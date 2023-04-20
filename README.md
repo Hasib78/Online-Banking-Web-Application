@@ -1,5 +1,4 @@
 # Online-Banking-Web-Application
 Link:
-https://hasibonlinebankingsystem.on.drv.tw/Webhost/Bank%20System/
-
-https://hasibonlinebankingsystem.on.drv.tw/Webhost/Bank%20System/bank.html
+https://hasib78.github.io/Online-Banking-Web-Application/
+ 
