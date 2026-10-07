@@ -1,14 +1,11 @@
 # Online Banking Web Application
 
-A simple front-end banking simulation built with HTML, JavaScript, and Tailwind CSS. The project demonstrates client-side login validation and basic banking operations such as deposits, withdrawals, and balance management.
+A front-end banking simulation built with HTML, JavaScript, and Tailwind CSS. The project demonstrates client-side login validation and basic banking operations such as deposits, withdrawals, and balance management.
 
-## Demo
-
-Live Demo: https://hasib78.github.io/Online-Banking-Web-Application/
 
 ## Features
 
-- Simple login screen with client-side credential validation
+- Login screen with client-side credential validation
 - Account dashboard showing:
   - Total deposits
   - Total withdrawals
@@ -87,8 +84,6 @@ Open `index.html` in a web browser.
 
 ## Important Notes
 
-This is an educational front-end project and is **not a production banking system**.
-
 - Authentication is performed entirely in JavaScript.
 - Credentials are stored in client-side code.
 - Account data exists only in the browser session.
@@ -106,7 +101,3 @@ For a production-ready banking application, authentication, authorization, trans
 - Add transfer functionality
 - Add responsive mobile-focused UI
 - Add logout/session management
-
-## License
-
-This project is intended for educational and portfolio purposes.
